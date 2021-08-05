@@ -13,6 +13,8 @@
 		8C8A65FE26BB8FC80015F4A2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C8A65FD26BB8FC80015F4A2 /* Preview Assets.xcassets */; };
 		8C8A660626BB92600015F4A2 /* OnboardingCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8A660526BB92600015F4A2 /* OnboardingCard.swift */; };
 		8C8A660826BB92B80015F4A2 /* OnboardingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8A660726BB92B80015F4A2 /* OnboardingCardView.swift */; };
+		8C8A660A26BB9A810015F4A2 /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8A660926BB9A810015F4A2 /* PageViewController.swift */; };
+		8C8A660C26BB9C230015F4A2 /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C8A660B26BB9C230015F4A2 /* PageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		8C8A65FF26BB8FC80015F4A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8C8A660526BB92600015F4A2 /* OnboardingCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingCard.swift; sourceTree = "<group>"; };
 		8C8A660726BB92B80015F4A2 /* OnboardingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingCardView.swift; sourceTree = "<group>"; };
+		8C8A660926BB9A810015F4A2 /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
+		8C8A660B26BB9C230015F4A2 /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				8C8A65FF26BB8FC80015F4A2 /* Info.plist */,
 				8C8A65FC26BB8FC80015F4A2 /* Preview Content */,
 				8C8A660526BB92600015F4A2 /* OnboardingCard.swift */,
+				8C8A660926BB9A810015F4A2 /* PageViewController.swift */,
+				8C8A660B26BB9C230015F4A2 /* PageView.swift */,
 			);
 			path = "commands-tour-demo";
 			sourceTree = "<group>";
@@ -145,6 +151,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C8A65F926BB8FC60015F4A2 /* ContentView.swift in Sources */,
+				8C8A660C26BB9C230015F4A2 /* PageView.swift in Sources */,
+				8C8A660A26BB9A810015F4A2 /* PageViewController.swift in Sources */,
 				8C8A660626BB92600015F4A2 /* OnboardingCard.swift in Sources */,
 				8C8A65F726BB8FC60015F4A2 /* commands_tour_demoApp.swift in Sources */,
 				8C8A660826BB92B80015F4A2 /* OnboardingCardView.swift in Sources */,
