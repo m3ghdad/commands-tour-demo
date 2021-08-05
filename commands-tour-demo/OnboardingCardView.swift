@@ -30,6 +30,7 @@ struct OnboardingCardView: View {
             }
             .padding(40)
         }
+        .padding()
         
     }
 }
